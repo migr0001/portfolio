@@ -1,3 +1,9 @@
 permalink: pretty
 
 theme: jekyll_patternbot
+
+patternbot:
+
+  layouts:
+    default: |
+      write default description
