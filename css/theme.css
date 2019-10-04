@@ -1,11 +1,11 @@
 :root {
-  --color-primary: #42447f;
-  --color-primary-light: #3B6D87;
-    --color-secondary: #85A4A5;
-    --color-red: #CB6161;
-    --color-neutral-beige: #efeeee;
+  --color-primary: #55678B;
+  --color-primary-light: #AEC2DB;
+  --color-secondary: #fff;
+  --color-neutral-beige: #F2F2F2;
 
-    --font-primary: "Montserrat", sans-serif;
+    --font-primary: "Nunito Sans", sans-serif;
+    --font-secondary: "Indie Flower", sans-serif;
 }
 
 html {

@@ -1,0 +1,81 @@
+/* Nav check */
+.nav-check:checked ~ .nav {
+  display: block;
+}
+
+.nav-check {
+  position: absolute;
+}
+
+.nav-open,
+.nav-close {
+  display: block;
+}
+
+.nav-close {
+  display: none;
+  bottom: 0;
+  position: absolute;
+}
+
+.nav-check:checked ~ .nav-label .nav-open {
+  display: none;
+}
+
+.nav-check:checked ~ .nav-label .nav-open {
+  display: none;
+  visibility: hidden;
+}
+
+.nav-check:checked ~ .nav-label .nav-close {
+  display: inline-block;
+}
+/* End Nav check */
+
+header {
+  background: var(--color-neutral-beige);
+}
+
+ul a {
+  text-decoration: none;
+  font-weight: bold;
+  color: var(--color-primary);
+  text-align: center;
+}
+
+ul a:hover {
+  font-weight: bold;
+  color: var(--color-primary-light);
+  transition: 0.5s;
+}
+
+input {
+  visibility: visible;
+}
+
+label {
+  visibility: visible;
+}
+
+/* screen widths */
+@media only screen and (min-width: 40em) {
+
+  header {
+    height: 100px;
+  }
+
+  nav {
+    padding-bottom: 8px;
+  }
+
+  input {
+    visibility: hidden;
+    display: none;
+  }
+
+  label {
+    visibility: hidden;
+    display: none;
+  }
+
+}

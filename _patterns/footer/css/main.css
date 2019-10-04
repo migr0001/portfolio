@@ -1,0 +1,16 @@
+.footer {
+  background-color: #55678B;
+}
+
+.social-media {
+  opacity: 0.5;
+}
+
+.social-media:hover {
+  opacity: 1;
+  transition: 0.5s;
+}
+
+.text-white {
+  color: #fff;
+}
