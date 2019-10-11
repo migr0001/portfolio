@@ -6,7 +6,7 @@ patternbot:
 
   layouts:
     default: |
-      (write info here)
+      The default layout should be used for almost every page, it includes the website's primary header & footer.
 
 title: Maddie Migriño
 description: |

@@ -1,0 +1,9 @@
+patterns:
+  about:
+    title: "About Me"
+    description: |
+      This card will appear at the bottom of the home page. On wider screen sizes, the image and the text will be next to eachother. On smaller screen sizes, the image will be stacked ontop of the text.
+  slider:
+    title: "Other Videos"
+    description: |
+      This will appear on the homepage to allow people to view other videos that I have created for my YouTube channel.

@@ -1,4 +1,8 @@
 /* Nav check */
+.nav {
+  display: none;
+}
+
 .nav-check:checked ~ .nav {
   display: block;
 }
@@ -33,27 +37,24 @@
 /* End Nav check */
 
 header {
-  background: var(--color-neutral-beige);
+  background: var(--color-primary);
 }
 
 ul a {
   text-decoration: none;
-  font-weight: bold;
-  color: var(--color-primary);
+  color: #fff;
   text-align: center;
 }
 
-ul a:hover {
-  font-weight: bold;
-  color: var(--color-primary-light);
-  transition: 0.5s;
+.border-bottom:hover {
+  border-bottom: 3px solid var(--color-primary-light);
 }
 
-input {
+.input {
   visibility: visible;
 }
 
-label {
+.label {
   visibility: visible;
 }
 
@@ -64,16 +65,20 @@ label {
     height: 100px;
   }
 
-  nav {
-    padding-bottom: 8px;
+  .nav {
+    display: block;
   }
 
-  input {
+  nav {
+    padding-bottom: 15px;
+  }
+
+  .input {
     visibility: hidden;
     display: none;
   }
 
-  label {
+  .label {
     visibility: hidden;
     display: none;
   }

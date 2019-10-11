@@ -1,0 +1,5 @@
+patterns:
+  top-nav:
+    title: "Top Navigation"
+    description: |
+      People can navigate through my website by accessing the top navigation.

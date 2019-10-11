@@ -1,0 +1,5 @@
+patterns:
+  hamburger:
+    title: "Hambuger Navigation"
+    description: |
+      This hamburger button will be used for the top navigation on smaller screens. When users click on this button, the navigation contents will drop down.

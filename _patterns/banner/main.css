@@ -1,0 +1,13 @@
+.banner {
+  background-color: var(--color-neutral-beige);
+  color: var(--color-primary);
+}
+
+@media only screen and (min-width: 10em) {
+
+  video {
+    padding-top: 0;
+    width: 100%;
+  }
+
+}
