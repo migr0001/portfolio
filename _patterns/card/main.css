@@ -4,7 +4,14 @@
 
 #video-1-control:checked ~ .carousel-inner #video-1,
 #video-2-control:checked ~ .carousel-inner #video-2,
-#video-3-control:checked ~ .carousel-inner #video-3 {
+#video-3-control:checked ~ .carousel-inner #video-3,
+#video-4-control:checked ~ .carousel-inner #video-4,
+#video-5-control:checked ~ .carousel-inner #video-5,
+#video-6-control:checked ~ .carousel-inner #video-6,
+#video-7-control:checked ~ .carousel-inner #video-7,
+#video-8-control:checked ~ .carousel-inner #video-8,
+#video-9-control:checked ~ .carousel-inner #video-9,
+#video-10-control:checked ~ .carousel-inner #video-10 {
   display: block;
 }
 
@@ -15,7 +22,14 @@
 
 #video-1-control:checked ~ .carousel-inner [for="video-1-control"],
 #video-2-control:checked ~ .carousel-inner [for="video-2-control"],
-#video-3-control:checked ~ .carousel-inner [for="video-3-control"] {
+#video-3-control:checked ~ .carousel-inner [for="video-3-control"],
+#video-4-control:checked ~ .carousel-inner [for="video-4-control"],
+#video-5-control:checked ~ .carousel-inner [for="video-5-control"],
+#video-6-control:checked ~ .carousel-inner [for="video-6-control"],
+#video-7-control:checked ~ .carousel-inner [for="video-7-control"],
+#video-8-control:checked ~ .carousel-inner [for="video-8-control"],
+#video-9-control:checked ~ .carousel-inner [for="video-9-control"],
+#video-10-control:checked ~ .carousel-inner [for="video-10-control"] {
   background-color: var(--color-primary);
 }
 
@@ -47,7 +61,15 @@
 
 }
 
-/* About Me */
+/* begin next slide */
+.hi-slide {
+  position: relative;
+  width: 754px;
+  height: 292px;
+  margin: 115px auto 0;
+}
+
+/* begin About Me */
 .indie-flower {
   font-family: "Indie Flower";
 }

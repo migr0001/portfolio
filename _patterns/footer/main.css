@@ -2,15 +2,18 @@
   background-color: #55678B;
 }
 
-.social-media {
-  opacity: 0.5;
-}
-
-.social-media:hover {
-  opacity: 1;
-  transition: 0.5s;
-}
-
 .text-white {
   color: #fff;
+}
+
+/* begin svg */
+
+.icon-link {
+  opacity: 0.5;
+  color: #fff;
+}
+
+.icon-link:hover {
+  opacity: 1;
+  transition: 0.5s;
 }
