@@ -1,5 +1,4 @@
 permalink: pretty
-
 theme: jekyll_patternbot
 
 patternbot:
@@ -8,21 +7,21 @@ patternbot:
     default: |
       The default layout should be used for almost every page, it includes the website's primary header & footer.
 
-title: Maddie Migriño
-description: |
-  Welcome to my portfolio website!
-font_url: "https://fonts.googleapis.com/css?family=Indie+Flower|Nunito+Sans:400,400i,700,700i,900,900i&display=swap"
-colors:
-  background: "--color-secondary"
-  accent: "--color-neutral-beige"
-rationales:
-  typefaces.primary: |
-    The primary typeface (Nunito Sans) was chosen because it is a font that is easy to work with with different weights.
-  typefaces.secondary: |
-    The secondary typeface (Indie Flower) was chosen primarily for the biography section. I wanted the biography page to be more personal using a handwritten font.
-  colors.primary: |
-    The primary dark blue colour is used for the banner, or for the footer. However, this may change later throughout the semester. The light blue colour is used as a button hover colour against a dark background.
-  colors.secondary: |
-    The secondary colour is pure white. This will be used as a background colour for the website.
-  colors.neutral: |
-    The neutral colour is used as a background around texts (for example, the biography page, and description for art).
+  title: Maddie Migriño
+  description: |
+    Welcome to my portfolio website!
+  font_url: "https://fonts.googleapis.com/css?family=Indie+Flower|Nunito+Sans:400,400i,700,700i,900,900i&display=swap"
+  colors:
+    background: "--color-secondary"
+    accent: "--color-neutral-beige"
+  rationales:
+    typefaces.primary: |
+      The primary typeface (Nunito Sans) was chosen because it is a font that is easy to work with with different weights.
+    typefaces.secondary: |
+      The secondary typeface (Indie Flower) was chosen primarily for the biography section. I wanted the biography page to be more personal using a handwritten font.
+    colors.primary: |
+      The primary dark blue colour is used for the banner, or for the footer. However, this may change later throughout the semester. The light blue colour is used as a button hover colour against a dark background.
+    colors.secondary: |
+      The secondary colour is pure white. This will be used as a background colour for the website.
+    colors.neutral: |
+      The neutral colour is used as a background around texts (for example, the biography page, and description for art).
