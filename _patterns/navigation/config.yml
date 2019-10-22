@@ -2,4 +2,4 @@ patterns:
   top-nav:
     title: "Top Navigation"
     description: |
-      People can navigate through my website by accessing the top navigation.
+      People can navigate through my website by accessing the top navigation. By clicking the logo, users will be brought back to the homepage.

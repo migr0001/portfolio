@@ -61,19 +61,52 @@
 
 }
 
-/* begin next slide */
-.hi-slide {
-  position: relative;
-  width: 754px;
-  height: 292px;
-  margin: 115px auto 0;
-}
-
 /* begin About Me */
 .indie-flower {
-  font-family: "Indie Flower";
+  font-family: "Indie Flower", sans-serif;
 }
 
-.beige-bg {
+.blue-bg {
+  background-color: var(--color-primary-light);
+}
+
+.white {
+  color: #fff;
+}
+
+/* hoverbox */
+.hover-box {
+  color: #fff;
+}
+
+.hover-box-caption {
+  bottom: -6em;
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, .5));
+  text-shadow: 1px 1px 5px rgba(0, 0, 0, .9);
+  transition: all .3s linear;
+}
+
+.hover-box:hover .hover-box-caption,
+.hover-box:focus .hover-box-caption {
+  bottom: 0;
+}
+
+.hover-box-img {
+  filter: none;
+  transition: all .3s linear;
+}
+
+.hover-box:hover .hover-box-img,
+.hover-box:focus .hover-box-img {
+  filter: none;
+  transform: scale(1.6);
+}
+
+.hover-box:focus {
+  z-index: 10;
+}
+
+/* sections */
+.sections {
   background-color: var(--color-neutral-beige);
 }

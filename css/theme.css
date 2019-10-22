@@ -2,7 +2,9 @@
   --color-primary: #55678B;
   --color-primary-light: #AEC2DB;
   --color-secondary: #fff;
-  --color-neutral-beige: #F2F2F2;
+  --color-neutral-beige: #ececec;
+  --color-red: #ff8a80;
+  --color-accent: #85A4A5;
 
     --font-primary: "Nunito Sans", sans-serif;
     --font-secondary: "Indie Flower", sans-serif;

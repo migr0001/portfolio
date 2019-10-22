@@ -12,8 +12,8 @@ patternbot:
     Welcome to my portfolio website!
   font_url: "https://fonts.googleapis.com/css?family=Indie+Flower|Nunito+Sans:400,400i,700,700i,900,900i&display=swap"
   colors:
-    background: "--color-secondary"
-    accent: "--color-neutral-beige"
+    background: "#fff"
+    accent: "--color-primary"
   rationales:
     typefaces.primary: |
       The primary typeface (Nunito Sans) was chosen because it is a font that is easy to work with with different weights.

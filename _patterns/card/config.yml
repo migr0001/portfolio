@@ -7,3 +7,19 @@ patterns:
     title: "Other Videos"
     description: |
       This will appear on the homepage to allow people to view other videos that I have created for my YouTube channel.
+  artwork:
+    title: "Other Artwork"
+    description: |
+      This will appear at the bottom of the "Motion" page to allow people to view other artwork. This includes paper, canvas, and computer graphic illustrations.
+  case-study:
+    title: "Case Study"
+    description: |
+      This is will be the default layout for the case studies.
+    fields:
+      - name: tourism-heading
+        type: string
+        example: "Tourism Bohol"
+      - name: tourism-paragraph
+        type: string
+        example: "This video primarily focuses on a small island of Bohol, located in the Philippines. There is a steady tourism boost in Bohol, due to popular social media influencers who traveled there to seek adventure. However, there are not many promotional videos focusing on the chosen location.
+        The goal is to understand the general public’s idea of paradise, and intrigue them with footage that shows the beauty of Bohol. Watching several tourism commercials on Youtube and seeing various ways to lure the audience really helped in planning during the sketching phase of this project. Some of these commercials include “It’s More Fun In The Philippines“, “Discover Canada“, “Visit Seoul“ and “Expedia’s Vancouver Vacation Travel Guide.“"

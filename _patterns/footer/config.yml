@@ -2,4 +2,4 @@ patterns:
   footer:
     title: "Footer"
     description: |
-      Social media will be located on the footer.
+      Social media will be located on the footer. When hovering over the social media icons, the icons will change to full opacity.
