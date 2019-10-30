@@ -1,3 +1,16 @@
+/* Skip links */
+.skip-links {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  background-color: var(--color-primary);
+  border-radius: 8px;
+}
+
+.skip-links a {
+  background-color: var(--color-primary);
+  color: #fff;
+}
 /* Nav check */
 .nav {
   display: none;
@@ -33,9 +46,9 @@
 
 .nav-check:checked ~ .nav-label .nav-close {
   display: inline-block;
+  bottom: 6em;
 }
 /* End Nav check */
-
 header {
   background: var(--color-primary);
   padding: 4em;
@@ -63,7 +76,6 @@ ul a {
   opacity: 0.5;
   transition: 0.5s;
 }
-
 /* screen widths */
 @media only screen and (min-width: 40em) {
 

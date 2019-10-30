@@ -12,14 +12,25 @@ patterns:
     description: |
       This will appear at the bottom of the "Motion" page to allow people to view other artwork. This includes paper, canvas, and computer graphic illustrations.
   case-study:
-    title: "Case Study"
+    title: "Case Study card"
     description: |
-      This is will be the default layout for the case studies.
+      This will be the default layout for all the case studies.
     fields:
-      - name: tourism-heading
+      - name: heading
         type: string
         example: "Tourism Bohol"
-      - name: tourism-paragraph
+      - name: thumbnail
         type: string
-        example: "This video primarily focuses on a small island of Bohol, located in the Philippines. There is a steady tourism boost in Bohol, due to popular social media influencers who traveled there to seek adventure. However, there are not many promotional videos focusing on the chosen location.
-        The goal is to understand the general public’s idea of paradise, and intrigue them with footage that shows the beauty of Bohol. Watching several tourism commercials on Youtube and seeing various ways to lure the audience really helped in planning during the sketching phase of this project. Some of these commercials include “It’s More Fun In The Philippines“, “Discover Canada“, “Visit Seoul“ and “Expedia’s Vancouver Vacation Travel Guide.“"
+        example: "tourism.png"
+      - name: video
+        type: string
+        example: "tourism.mp4"
+      - name: image
+        type: string
+        example: "tourism.jpg"
+      - name: text-1
+        type: string
+        example: "This video primarily focuses on a small island of Bohol, located in the Philippines. There is a steady tourism boost in Bohol, due to popular social media influencers who traveled there to seek adventure. However, there are not many promotional videos focusing on the chosen location."
+      - name: text-2
+        type: string
+        example: "The goal is to understand the general public’s idea of paradise, and intrigue them with footage that shows the beauty of Bohol. Watching several tourism commercials on Youtube and seeing various ways to lure the audience really helped in planning during the sketching phase of this project. Some of these commercials include “It’s More Fun In The Philippines“, “Discover Canada“, “Visit Seoul“ and “Expedia’s Vancouver Vacation Travel Guide.“"

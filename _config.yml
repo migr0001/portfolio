@@ -25,3 +25,13 @@ patternbot:
       The secondary colour is pure white. This will be used as a background colour for the website.
     colors.neutral: |
       The neutral colour is used as a background around texts (for example, the biography page, and description for art).
+
+collections:
+  art:
+    output: true
+
+defaults:
+  - scope:
+      path: _art
+    values:
+      layout: case-study
