@@ -2,4 +2,4 @@ patterns:
   hamburger:
     title: "Hambuger Navigation"
     description: |
-      This hamburger button will be used for the top navigation on smaller screens. When users click on this button, the navigation contents will drop down.
+      This hamburger button will be used for the top header navigation on smaller screens. When users click on this button, the navigation contents will drop down. The hamburger icon will also animate to a red "X" after visitors click on this button once. (The hamburger icon is WHITE, not dark blue. The dark blue that you see here is just to show contrast against the white button and the white background, and to show that the icon does exist.)

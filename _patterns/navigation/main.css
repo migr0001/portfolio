@@ -45,8 +45,10 @@
 }
 
 .nav-check:checked ~ .nav-label .nav-close {
+  position: relative;
   display: inline-block;
-  bottom: 6em;
+  bottom: 1em;
+  margin-top: 2em;
 }
 /* End Nav check */
 header {

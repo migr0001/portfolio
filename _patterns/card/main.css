@@ -1,5 +1,5 @@
 /* Carousel tutorial */
-carousel-items > div {
+.carousel-items > div {
   display: none;
 }
 
@@ -44,7 +44,6 @@ carousel-items > div {
   position: relative;
   background-color: var(--color-accent);
   color: #fff;
-  border-radius: 20px;
 }
 
 .carousel iframe {

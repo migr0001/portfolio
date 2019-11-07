@@ -6,6 +6,8 @@ patternbot:
   layouts:
     default: |
       The default layout should be used for almost every page, it includes the website's primary header & footer.
+    motion-layout: |
+      The motion-layout is a fixed layout for all my motion videos.
 
   title: Maddie Migriño
   description: |
@@ -23,6 +25,8 @@ patternbot:
       The primary dark blue colour is used for the banner, or for the footer. However, this may change later throughout the semester. The light blue colour is used as a button hover colour against a dark background.
     colors.secondary: |
       The secondary colour is pure white. This will be used as a background colour for the website.
+    colors.accent: |
+      These colours are the accent colours. After visitors of the website clicks on the hamburger icon once located on the header (on smaller screen sizes), the hamburger icon animation will turn red to allow users to close the nav links. The red is to be used sparingly. The green is used as a background for the carousels.
     colors.neutral: |
       The neutral colour is used as a background around texts (for example, the biography page, and description for art).
 
@@ -34,4 +38,4 @@ defaults:
   - scope:
       path: _art
     values:
-      layout: case-study
+      layout: motion-layout
