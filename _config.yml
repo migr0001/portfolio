@@ -31,7 +31,7 @@ patternbot:
       The neutral colour is used as a background around texts (for example, the biography page, and description for art).
 
 collections:
-  art:
+  motion-arts:
     output: true
 
 defaults:

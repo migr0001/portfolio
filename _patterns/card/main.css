@@ -12,7 +12,12 @@
 #video-7-control:checked ~ .carousel-inner #video-7,
 #video-8-control:checked ~ .carousel-inner #video-8,
 #video-9-control:checked ~ .carousel-inner #video-9,
-#video-10-control:checked ~ .carousel-inner #video-10 {
+#video-10-control:checked ~ .carousel-inner #video-10,
+#video-11-control:checked ~ .carousel-inner #video-11,
+#video-12-control:checked ~ .carousel-inner #video-12,
+#video-13-control:checked ~ .carousel-inner #video-13,
+#video-14-control:checked ~ .carousel-inner #video-14,
+#video-15-control:checked ~ .carousel-inner #video-15 {
   display: block;
 }
 
@@ -30,7 +35,12 @@
 #video-7-control:checked ~ .carousel-inner [for="video-7-control"],
 #video-8-control:checked ~ .carousel-inner [for="video-8-control"],
 #video-9-control:checked ~ .carousel-inner [for="video-9-control"],
-#video-10-control:checked ~ .carousel-inner [for="video-10-control"] {
+#video-10-control:checked ~ .carousel-inner [for="video-10-control"],
+#video-11-control:checked ~ .carousel-inner [for="video-11-control"],
+#video-12-control:checked ~ .carousel-inner [for="video-12-control"],
+#video-13-control:checked ~ .carousel-inner [for="video-13-control"],
+#video-14-control:checked ~ .carousel-inner [for="video-14-control"],
+#video-15-control:checked ~ .carousel-inner [for="video-15-control"] {
   background-color: #fff;
 }
 
@@ -110,4 +120,8 @@
 /* colours */
 .beige-bg {
   background-color: var(--color-neutral-beige);
+}
+
+.light-bg {
+  background-color: var(--color-primary-light);
 }

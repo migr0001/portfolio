@@ -34,3 +34,7 @@ patterns:
       - name: text-2
         type: string
         example: "The goal is to understand the general public’s idea of paradise, and intrigue them with footage that shows the beauty of Bohol. Watching several tourism commercials on Youtube and seeing various ways to lure the audience really helped in planning during the sketching phase of this project. Some of these commercials include “It’s More Fun In The Philippines“, “Discover Canada“, “Visit Seoul“ and “Expedia’s Vancouver Vacation Travel Guide.“"
+  motion-thumbnails:
+    title: "Motion Thumbnails"
+    description: |
+      Thumbnails for all the motion graphics videos.
