@@ -33,7 +33,6 @@ patternbot:
 collections:
   motion-arts:
     output: true
-
 defaults:
   - scope:
       path: _motion-arts

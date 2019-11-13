@@ -125,3 +125,7 @@
 .light-bg {
   background-color: var(--color-primary-light);
 }
+
+.white-bg {
+  background-color: #fff;
+}

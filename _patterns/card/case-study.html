@@ -7,25 +7,43 @@
 
   <div class="gutter wrapper">
     <div>
-      <h1 class="push-1-2">{{include.heading}}</h1>
+      <h1 class="push pad-t yotta text-upper">{{include.heading}}</h1>
     </div>
 
-    <video class="pad-b" width="100%" id="video" controls poster="/motion/thumbnail/{{include.thumbnail}}">
+    <video class="pad-b-2" width="100%" id="video" controls poster="/motion/thumbnail/{{include.thumbnail}}">
       <source src="/motion/{{include.video}}" type="video/mp4">
       Portfolio video with case study sketches and description.
     </video>
+
   </div>
 
   <div class="beige-bg" id="case-study">
-    <div class="wrapper grid gutter-1-2 pad-t pad-b">
+    <div class="wrapper grid gutter-1-2 pad-t-2 pad-b-1-2">
 
-      <div class="unit s-1 m-1-2 unit-content-center hover-box crop gutter-1-2">
-        <img class="hover-box-img img-flex" src="/motion/case-study/{{include.image}}" alt="Sketches and planning">
+      <div class="unit gutter-1-2 pad-b">
+        <h3 class="push-1-2 text-upper">About</h3>
+        <p>{{include.about}}</p>
       </div>
 
-      <div class="unit s-1 m-1-2 unit-content-center gutter-1-2">
-        <p class="">{{include.text-1}}</p>
-        <p class="push-0">{{include.text-2}}</p>
+      <div class="unit gutter-1-2 pad-b">
+        <h3 class="push-1-2 text-upper">Inspiration</h3>
+        <p>{{include.inspiration}}</p>
+      </div>
+
+      <div class="grid white-bg pad-t-2 pad-b gutter-1-2">
+        <div class="unit s-1 m-1-2 unit-content-center hover-box crop gutter-1-2 pad-b">
+          <img class="hover-box-img img-flex" src="/motion/case-study/{{include.image}}" alt="Sketches and planning">
+        </div>
+
+        <div class="unit s-1 m-1-2 unit-content-center pad-t gutter-1-2">
+          <h3 class="push-1-2 text-upper">Planning</h3>
+          <p>{{include.plan}}</p>
+        </div>
+      </div>
+
+      <div class="unit gutter-1-2 pad-t-2">
+        <h3 class="push-1-2 text-upper">Goals</h3>
+        <p>{{include.goals}}</p>
       </div>
 
     </div>

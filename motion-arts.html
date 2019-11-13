@@ -11,11 +11,18 @@ layout: default
 <meta property="og:url" content="maddie-migrino.ca">
 <meta property="og:locale" content="en_CA">
 
-<div class="grid gutter wrapper pad-t-2 pad-b">
-  {% pattern card/motion-thumbnails %}
+<div class="pad-t-2 pad-b wrapper">
+
+    <div class="grid gutter-1-2 pad-t">
+      {% for motion-art in site.motion-arts %}
+        <div class="unit xs-1 s-1 m-1-2 gutter-1-2 pad-b">
+          {% pattern card/motion-thumbnails data=motion-art %}
+        </div>
+      {% endfor %}
+    </div>
 </div>
 
-<div class="pad-t pad-b">
+<div class="pad-t-1-2 pad-b-2">
   {% pattern card/artwork %}
 </div>
 
