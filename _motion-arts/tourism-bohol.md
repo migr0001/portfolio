@@ -1,7 +1,7 @@
 ---
 name: "Tourism Bohol"
 
-description: "write description here"
+description: "Social Media Advertisement Video"
 
 about: |
 
@@ -12,7 +12,7 @@ inspiration: |
 plan: |
 
 
-goal: |
+goals: |
 
 
 thumbnail: "/motion/thumbnail/tourism.png"

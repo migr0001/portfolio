@@ -18,7 +18,7 @@ layout: default
     <li><a href="#case-study">Case Study</a></li>
   </ul>
 
-  <div class="gutter wrapper">
+  <div class="gutter wrapper pad-t">
     <div>
       <h1 class="push-0 pad-t text-upper">{{page.name}}</h1>
       <h3 class="push normal">{{page.description}}</h3>
@@ -31,7 +31,7 @@ layout: default
 
   </div>
 
-  <div class="beige-bg" id="case-study">
+  <div class="beige-bg pad-b" id="case-study">
     <div class="wrapper grid gutter-1-2 pad-t-2 pad-b-1-2">
 
       <div class="unit xs-1 gutter-1-2 pad-b">
@@ -39,25 +39,25 @@ layout: default
         {{page.about|markdownify}}
       </div>
 
-      <div class="unit xs-1 gutter-1-2 pad-b">
+      <div class="unit xs-1 gutter-1-2 pad-t pad-b-2">
         <h3 class="push-1-2 text-upper">Inspiration</h3>
         {{page.inspiration|markdownify}}
       </div>
 
-      <div class="grid wrapper white-bg pad-t-2 pad-b gutter-1-2">
+      <div class="grid wrapper white-bg pad-t-2 gutter-1-2">
         <div class="unit s-1 m-1-2 unit-content-center hover-box crop gutter-1-2 pad-b">
           <img class="hover-box-img img-flex" src="{{page.image}}" alt="Sketches and planning">
         </div>
 
-        <div class="unit s-1 m-1-2 unit-content-center pad-t gutter-1-2">
+        <div class="unit s-1 m-1-2 pad-t-2 pad-b-2 gutter-1-2">
           <h3 class="push-1-2 text-upper">Planning</h3>
           {{page.plan|markdownify}}
         </div>
       </div>
 
       <div class="unit xs-1 gutter-1-2 pad-t-2">
-        <h3 class="push-1-2 text-upper">Goal</h3>
-        <p>{{page.goals}}</p>
+        <h3 class="push-1-2 text-upper pad-t">Goal / Conclusion</h3>
+        {{page.goals|markdownify}}
       </div>
 
     </div>
