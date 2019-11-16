@@ -36,7 +36,7 @@ plan: |
   4. Lastly, the **night sky**. I was inspired by a movie when a character looked up at the night sky and made a wish after seeing the shooting stars.
 
 
-goals: |
+conclusion: |
   Everybody is different, therefore we will all have different opinions on things. That also goes for the topic of love. Love, how ever people may define it, can be expressed towards a family member, significant other, or oneself.
 
   After listening to the song, and reading the breakdown to the translated lyrics, I want to encourage people that it’s okay to have different opinions to complex topics, including love.

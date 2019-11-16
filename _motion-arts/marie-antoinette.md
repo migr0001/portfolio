@@ -18,7 +18,7 @@ inspiration: |
 plan: |
   Deciding to create a made-up YouTube trailer for a documentary series seemed exciting as I knew her life story very well. Not many sketches of the plan was created; it was more a trial and error process, as I tested different elegant transitions. I thought the lyrics to *"**Viva la Vida**"* by Coldplay was very fitting with Marie Antoinette's life. However, I thought the instrumental to the song was better for the video so that they viewers would focus on the video more than the well-known song itself.
 
-goals: |
+conclusion: |
   The goal was to attract history lovers and convince them that the last Queen of France was falsely accused for things she never said, and for actions she never did. Since Marie lived a lavish lifestyle, the transitions had to be elegant to fit her lavish lifestyle.
 
 thumbnail: "/motion/thumbnail/marie-antoinette.png"

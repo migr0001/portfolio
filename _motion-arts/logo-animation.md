@@ -16,7 +16,7 @@ plan: |
 
   Lastly, I wanted to come up with a simple acronym that would best represent me as a designer for the three letters. I concluded that my designs are **Memorable** and **Accessible Designs**.
 
-goals: |
+conclusion: |
   The goal is to get some exposure, and confidence with my skills in motion graphics. I’ve received great feedback from curious viewers on some of videos, which pushed me to do even better for the next upload. I added this logo animation to my home on my YouTube channel, where I upload my best motion graphic pieces. When curious viewers go to my page, this logo animation automatically plays. This video welcomes viewers with a catchy beat. They get to know about me and why I upload videos in just 10 seconds.
 
   As previously mentioned, I animated my logo and text to the beat of Alan Walker’s hit song, **Faded**. To view my other logo animation with Billie Eilish’s song “Bad Guy”, please click on the link below:

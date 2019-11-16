@@ -108,6 +108,7 @@
 .hover-box:focus .hover-box-img {
   filter: none;
   transform: scale(1.6);
+  cursor: zoom-in;
 }
 
 .hover-box:focus {
