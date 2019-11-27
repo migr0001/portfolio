@@ -3,6 +3,8 @@ name: "Mental Health Awareness"
 
 description: "[PREVIEW] The Last - by Agust D"
 
+banner: "agust-d-banner.jpg"
+
 about: |
   I wanted to highlight mental health, an important topic which unfortunately is still considered a stigma in today’s society. This is only a short preview of a 3 minute kinetic typography to the song “The Last” by a rapper named Suga (aka Agust D). He addresses the monster named “fame” which negatively impacts his “mental pollution”.
 

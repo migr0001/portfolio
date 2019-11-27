@@ -3,6 +3,8 @@ name: "MADesigns Logo"
 
 description: "Logo Animation"
 
+banner: "logo-banner.jpg"
+
 about: |
   This is a simple 10 second video of my logo animation, MADesigns. This took a full day to plan and complete in After Effects. I wanted to make the animation simple, yet fun, as every movement matches to the beat to Alan Walker's catch hit song, "**Faded**".
 

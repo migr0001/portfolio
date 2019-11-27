@@ -3,6 +3,8 @@ name: "Tourism Bohol"
 
 description: "Social Media Advertisement Video"
 
+banner: "tourism-banner.jpg"
+
 about: |
   This video primarily focuses on a small island of Bohol, located in the Philippines. There is a steady tourism boost in Bohol, due to popular social media influencers who traveled there to seek adventure. However, there are not many promotional videos focusing on chosen location.
 

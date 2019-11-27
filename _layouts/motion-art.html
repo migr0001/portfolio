@@ -13,15 +13,20 @@ layout: default
 
 <div>
 
+  <div class="banner center-content-horizontal">
+    <img class="img-flex" src="/motion/motion-banners/{{page.banner}}">
+  </div>
+
   <ul class="skip-links">
     <li><a href="#video">Watch Video</a></li>
     <li><a href="#case-study">Case Study</a></li>
   </ul>
 
   <div class="gutter wrapper pad-t">
+
     <div>
       <h1 class="push-0 pad-t text-upper">{{page.name}}</h1>
-      <h3 class="push normal">{{page.description}}</h3>
+      <h3 class="push-2 normal">{{page.description}}</h3>
     </div>
 
     <video class="pad-b-2" width="100%" id="video" controls poster="{{page.thumbnail}}">

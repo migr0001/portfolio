@@ -3,6 +3,8 @@ name: "Trivia: Love"
 
 description: "Valentine's Day, Kinetic Typography"
 
+banner: "trivia-love-banner.jpg"
+
 about: |
   This rap song talks about how the word **LOVE** is complex, and he even starts questioning what it means to love someone, or oneself. Everyone seems to talk about love, but it seems like everyone has a different definition to the word. With all these questions circling his head, he concludes that living is loving, and life has no meaning without it. Putting this strong emotion into words is difficult as love is felt. With that said, he simplifies his definition of the word, and repeats, *"**I live, so I love**"* in the chorus.
 

@@ -3,6 +3,8 @@ name: "Relatable..."
 
 description: "When Things Just Don't Go Right"
 
+banner: "looping-gif-banner.jpg"
+
 about: |
   As a Graphic Designers, we have no choice but to be in front of the screen for hours and hours. Your laptop can be your friend in the Design industry, but it can also be your enemy when something doesn't go right.
 

@@ -11,13 +11,15 @@ layout: default
 <meta property="og:url" content="maddie-migrino.ca">
 <meta property="og:locale" content="en_CA">
 
+{% pattern banner/motion-banner %}
+
 <div class="pad-t-2 pad-b wrapper">
 
     <div class="grid gutter-1-2">
 
       <div class="unit xs-1 gutter-1-2 pad-b-1-2">
         <h1 class="push-0 text-upper">Motion Graphics</h1>
-        <h3 class="normal push-1-2">Watch My Latest Video Creations</h3>
+        <h3 class="normal push">Watch My Latest Video Creations</h3>
       </div>
 
       {% for motion-art in site.motion-arts %}

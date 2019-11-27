@@ -3,6 +3,8 @@ name: "Reign Under Pressure"
 
 description: "Marie Antoinette Documentary Series"
 
+banner: "marie-antoinette-banner.jpg"
+
 about: |
   As a teenager, she was forced to create an alliance between her birthplace to her new country, France, by marrying their heir to the throne. The Austrian-born Queen of France was known as many things to the public; one being “Madame Deficit” due to her endless gambling and spending large sums of money on fine dresses while there is an economic crisis. Due to the public’s hatred towards the Queen, she was falsely accused for saying the infamous phrase *“**Let them eat cake**”* in a mocking way upon hearing that people in France were starving due to bread shortages.
 

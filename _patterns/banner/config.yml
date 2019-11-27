@@ -1,5 +1,9 @@
 patterns:
   banner:
-    title: "Homepage banner"
+    title: "Video Banner"
     description: |
       This video banner will be used in the homepage to introduce people who I am, and what I love to do (motion graphics).
+  home-banner:
+    title: "Home Banner"
+    description: |
+      This video banner will be a backup home banner (in case the video banner does not work out).
