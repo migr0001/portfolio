@@ -68,7 +68,21 @@
 }
 
 /* web videos */
-.web-btn {
+.web-btn p {
   background-color: var(--color-primary);
+  color: #fff;
+  border-radius: 8px;
+  padding: 1em;
+  margin-bottom: 0;
+}
+
+.web-btn p:hover {
+  background-color: #AEC2DB;
+  transition: 0.5s;
+  color: var(--color-primary);
+}
+
+.web-btn a {
+  text-decoration: none;
   color: #fff;
 }

@@ -28,4 +28,9 @@ thumbnail: "/motion/thumbnail/marie-antoinette.png"
 video: "/motion/marie-antoinette.mp4"
 
 image: "/motion/case-study/marie-antoinette.jpg"
+
+web-url: |
+  [**View on Vimeo**](https://vimeo.com/375983835)
+youtube: |
+  [**View on Youtube**](https://www.youtube.com/watch?v=OAEWdzkFTTo)
 ---

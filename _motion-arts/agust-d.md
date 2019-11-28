@@ -50,5 +50,10 @@ conclusion: |
 thumbnail: "/motion/thumbnail/agust-d.png"
 video: "/motion/agust-d.mp4"
 image: "/motion/case-study/agust-d.jpg"
-web-url: "https://www.youtube.com/watch?v=-cdkhX4Hqwc"
+
+web-url: |
+  [**View on Vimeo**](https://vimeo.com/375982764)
+category: "youtube"
+youtube: |
+  [**View on Youtube**](https://www.youtube.com/watch?v=dYkq0B9trCY)
 ---

@@ -27,9 +27,9 @@ layout: default
 
   <div class="gutter wrapper pad-t">
 
-    <div>
+    <div class="pad-b-1-2">
       <h1 class="push-0 pad-t text-upper">{{page.name}}</h1>
-      <h3 class="push-2 normal">{{page.description}}</h3>
+      <h3 class="normal">{{page.description}}</h3>
     </div>
 
     <video width="100%" id="video" controls plays-inline poster="{{page.thumbnail}}">
@@ -37,10 +37,18 @@ layout: default
       Portfolio video with case study sketches and description.
     </video>
 
-    <div class="wrapper grid island">
-      <div class="unit xs-1 pad-b-2 center-content-horizontal text-center">
-        {% pattern buttons/web-button text="Watch on Vimeo" url="{{page.web-url}}" %}
+    <div class="grid text-center pad-b-2 center-content-horizontal">
+      <div class="unit xs-1 s-1-2 island-1-8 web-btn">
+        {{page.web-url|markdownify}}
       </div>
+
+      {% for motion-art in site.motion-arts %}
+        {% if motion-art.category == 'youtube' %}
+          <div  class="unit xs-1 s-1-2 island-1-8 web-btn">
+            {{page.youtube|markdownify}}
+          </div>
+        {% endif %}
+      {% endfor %}
     </div>
 
   </div>

@@ -47,4 +47,9 @@ conclusion: |
 thumbnail: "/motion/thumbnail/trivia-love.jpg"
 video: "/motion/trivia-love.mp4"
 image: "/motion/case-study/trivia-love.jpg"
+
+web-url: |
+  [**View on Vimeo**](https://vimeo.com/375984655)
+youtube: |
+  [**Follow me on Youtube**](https://www.youtube.com/channel/UCo9uWYKgU5O73NS2jctAfpw)
 ---

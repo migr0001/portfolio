@@ -28,4 +28,9 @@ conclusion: |
 thumbnail: "/motion/thumbnail/logo-animation.jpg"
 video: "/motion/logo-animation.mp4"
 image: "/motion/case-study/logo-animation.jpg"
+
+web-url: |
+  [**View on Vimeo**](https://vimeo.com/375983113)
+youtube: |
+  [**View on Youtube**](https://www.youtube.com/watch?v=wMWoQ19BnIw)
 ---

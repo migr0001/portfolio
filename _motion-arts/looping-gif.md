@@ -23,4 +23,9 @@ conclusion: |
 thumbnail: "/motion/thumbnail/looping-gif.png"
 video: "/motion/looping-gif.mp4"
 image: "/motion/case-study/looping-gif.jpg"
+
+web-url: |
+  [**View on Vimeo**](https://vimeo.com/375983113)
+youtube: |
+  [**Follow me on Youtube**](https://www.youtube.com/channel/UCo9uWYKgU5O73NS2jctAfpw)
 ---

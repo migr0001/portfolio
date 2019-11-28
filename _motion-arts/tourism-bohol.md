@@ -22,4 +22,9 @@ conclusion: |
 thumbnail: "/motion/thumbnail/tourism.png"
 video: "/motion/tourism.mp4"
 image: "/motion/case-study/tourism.jpg"
+
+web-url: |
+  [**View on Vimeo**](https://vimeo.com/375984200)
+youtube: |
+  [**Follow me on Youtube**](https://www.youtube.com/channel/UCo9uWYKgU5O73NS2jctAfpw)
 ---
