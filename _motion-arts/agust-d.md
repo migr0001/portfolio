@@ -47,8 +47,8 @@ plan: |
 conclusion: |
   Since mental health is still a stigma in today's society, it's best to continue talking about the topic until the stigma barrier is broken. Like the leader of the group said, *"**if they talk about depression for example like it’s the common cold, then it becomes more and more accepted if it’s a common disorder like the cold.**"* - RM.
 
-
 thumbnail: "/motion/thumbnail/agust-d.png"
 video: "/motion/agust-d.mp4"
 image: "/motion/case-study/agust-d.jpg"
+web-url: "https://www.youtube.com/watch?v=-cdkhX4Hqwc"
 ---

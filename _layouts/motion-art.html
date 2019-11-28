@@ -14,6 +14,7 @@ layout: default
 <ul class="skip-links">
   <li><a href="#video">Watch the Video</a></li>
   <li><a href="#case-study">Read the Case Study</a></li>
+  <li><a href="/#footer">Social media</a></li>
   <li><a href="/motion-arts">Back to Motion Graphics page</a></li>
   <li><a href="/">Back to Home page</a></li>
 </ul>
@@ -31,10 +32,16 @@ layout: default
       <h3 class="push-2 normal">{{page.description}}</h3>
     </div>
 
-    <video class="pad-b-2" width="100%" id="video" controls poster="{{page.thumbnail}}">
+    <video width="100%" id="video" controls plays-inline poster="{{page.thumbnail}}">
       <source src="{{page.video}}" type="video/mp4">
       Portfolio video with case study sketches and description.
     </video>
+
+    <div class="wrapper grid island">
+      <div class="unit xs-1 pad-b-2 center-content-horizontal text-center">
+        {% pattern buttons/web-button text="Watch on Vimeo" url="{{page.web-url}}" %}
+      </div>
+    </div>
 
   </div>
 
