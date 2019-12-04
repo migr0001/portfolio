@@ -86,3 +86,23 @@
   text-decoration: none;
   color: #fff;
 }
+
+.btn {
+  background-color: #AEC2DB;
+  transition: 0.5s;
+  color: var(--color-primary);
+  border: none;
+}
+
+.btn:hover {
+  background-color: #fff;
+}
+
+/* For 404 error pages */
+
+.error-404 {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}

@@ -76,10 +76,6 @@
   font-family: "Indie Flower", sans-serif;
 }
 
-.blue-bg {
-  background-color: var(--color-primary-light);
-}
-
 .white {
   color: #fff;
 }
@@ -119,6 +115,14 @@
   background-color: var(--color-neutral-beige);
 }
 /* colours */
+.primary-blue-bg {
+  background-color: var(--color-primary);
+}
+
+.blue-bg {
+  background-color: var(--color-primary-light);
+}
+
 .beige-bg {
   background-color: var(--color-neutral-beige);
 }
