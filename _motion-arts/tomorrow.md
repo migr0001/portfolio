@@ -37,24 +37,16 @@ inspiration: |
   inspiring messages.
 
 plan: |
-  Although the South Korean band sings and raps in their native language,
-  their fanbase is enormous and globally spread despite the language barrier.
-  The translated lyrics was easy to find on dedicated fansites willing to spread
-  BTS’ message in various languages. However, trying to make the translated
-  english lyrics sync up to the Korean audio seemed difficult at first. I wanted
-  to challenge myself to not only do a kinetic typography to a language that
-  is foreign to me, but also visually communicate their story.
+  Although the South Korean band sings and raps in their native language, their fanbase is enormous and globally spread despite the language barrier. The translated lyrics was easy to find on dedicated fansites willing to spread BTS’ message in various languages. However, trying to make the translated english lyrics sync up to the Korean audio seemed difficult at first. I wanted to challenge myself to not only do a kinetic typography to a language that is foreign to me, but also visually communicate their story.
 
 
 conclusion: |
-  Everybody is different, therefore we will all have different opinions on things. That also goes for the topic of love. Love, how ever people may define it, can be expressed towards a family member, significant other, or oneself.
-
-  After listening to the song, and reading the breakdown to the translated lyrics, I want to encourage people that it’s okay to have different opinions to complex topics, including love.
+   I am proud with how it turned out, as the simple kinetic typography visually tells a relatable story of youths who are insecure of the future.
 
 
-thumbnail: "/motion/thumbnail/trivia-love.jpg"
-video: "/motion/trivia-love.mp4"
-image: "/motion/case-study/trivia-love.jpg"
+thumbnail: "/motion/thumbnail/tomorrow.jpg"
+video: "/motion/tomorrow.mp4"
+image: "/motion/case-study/tomorrow.jpg"
 
 web-url: |
   [**View on Vimeo**](https://vimeo.com/386848849)
