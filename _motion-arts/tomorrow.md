@@ -1,7 +1,7 @@
 ---
 name: "Tomorrow"
 
-description: "Valentine's Day, Kinetic Typography"
+description: "Short Kinetic Typography"
 
 banner: "tomorrow.jpg"
 
