@@ -3,7 +3,7 @@ name: "Tomorrow"
 
 description: "Valentine's Day, Kinetic Typography"
 
-banner: "trivia-love-banner.jpg"
+banner: "tomorrow.jpg"
 
 about: |
   This is a short kinetic typography to a relatable, yet inspirational song
