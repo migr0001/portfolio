@@ -3,6 +3,7 @@
   background-color: var(--color-neutral-beige);
   display: flex;
   width: 100%;
+  background: var(--color-neutral-beige);
   align-items: center;
   justify-content: center;
   /* added margin bottom */
